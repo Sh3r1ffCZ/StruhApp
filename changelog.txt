@@ -1,2 +1,7 @@
 - Nový vzhled
 - Úprava nastavení
+- Překlad DeepL nyní překládá i .txt
+- Přidán Liquid design
+- Přidána historie barev
+- Přidána možnost nastavení barvy podle hex v nastavení
+- Oprava některých chyb
