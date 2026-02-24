@@ -1,4 +1,4 @@
-Nová verze:
+Nová změny:
 - Sowtware aktuální je nýní bílý a prostřed
 - Odemknutí dokumentu funguje i na EXCEL
 - Zrychlení PC má novou funkci na opravu systému
@@ -6,7 +6,7 @@ Nová verze:
 - Přepsáno moje jméno na Changelog
 - Odebrána možnost kontrola aktualizací: Vypnuto
 
-Přechozí verze:
+Přechozí změny:
 - Nový vzhled
 - Úprava nastavení
 - Překlad DeepL nyní překládá i .txt
