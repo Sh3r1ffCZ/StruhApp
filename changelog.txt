@@ -1,5 +1,5 @@
 Nová změny:
-- Sowtware aktuální je nýní bílý a prostřed
+- Software aktuální je nyní bílý a uprostřed
 - Odemknutí dokumentu funguje i na EXCEL
 - Zrychlení PC má novou funkci na opravu systému
 - Všechny okna mají nový design
