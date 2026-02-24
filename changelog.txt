@@ -4,7 +4,7 @@ Nová verze:
 - Zrychlení PC má novou funkci na opravu systému
 - Všechny okna mají nový design
 - Přepsáno moje jméno na Changelog
-- 
+- Odebrána možnost kontrola aktualizací: Vypnuto
 
 Přechozí verze:
 - Nový vzhled
