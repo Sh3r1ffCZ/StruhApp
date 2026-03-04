@@ -1,16 +1,12 @@
 Nové změny:
+- Nyní lze zobrazit, kdo v UNEXU využívá licenci pro inventor a lze ho požádat o ukončení
+- Oprava některých chyb
+- Úprava vizualizace pro některé vyskakovací hlášky
+
+Přechozí změny:
 - Software aktuální je nyní bílý a uprostřed
 - Odemknutí dokumentu funguje i na EXCEL
 - Zrychlení PC má novou funkci na opravu systému
 - Všechny okna mají nový design
 - Přepsáno moje jméno na Changelog
 - Odebrána možnost kontrola aktualizací: Vypnuto
-
-Přechozí změny:
-- Nový vzhled
-- Úprava nastavení
-- Překlad DeepL nyní překládá i .txt
-- Přidán Liquid design
-- Přidána historie barev
-- Přidána možnost nastavení barvy podle hex v nastavení
-- Oprava některých chyb
