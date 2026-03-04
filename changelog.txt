@@ -2,6 +2,8 @@ Nové změny:
 - Nyní lze zobrazit, kdo v UNEXU využívá licenci pro inventor a lze ho požádat o ukončení
 - Oprava některých chyb
 - Úprava vizualizace pro některé vyskakovací hlášky
+- Opravena chyba, kdy nebylo možné zavřít inventor
+- Opravené veškeré memory leaky a zamrzávání aplikace
 
 Přechozí změny:
 - Software aktuální je nyní bílý a uprostřed
