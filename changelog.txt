@@ -3,6 +3,7 @@ Nové změny:
 - Úprava logování aplikací
 - Úprava některých překladů
 - Opravené některé chyby a memory leaky.
+- Přidáno heslo do Správy licencí
 
 Přechozí změny:
 - Nyní lze zobrazit, kdo v UNEXU využívá licenci pro inventor a lze ho požádat o ukončení
