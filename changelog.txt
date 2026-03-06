@@ -1,6 +1,9 @@
 Nové změny:
 - Přidán LocalSend, kdy je možné přesunout soubor na lokální zařízení v maximální přenosové rychlosti.
 - Opraveny veškeré chyby aplikace, dle AI není žádná chyba
+- Navyýšena rychlost bufferu a přenosu
+- Optimalizace pro RAM pře přenosu souboru
+- Zobrazena rychlost přesunu souboru
 
 Přechozí změny:
 - Nově ve Správě licencí lze vidět CAD i Inventor a lze požádat o jejich uzavření
