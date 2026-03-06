@@ -4,6 +4,8 @@ Nové změny:
 - Navyýšena rychlost bufferu a přenosu
 - Optimalizace pro RAM pře přenosu souboru
 - Zobrazena rychlost přesunu souboru
+- Opravena chyba s kontrolou aktualizací a možný pád aplikace
+- Přidán save pro přidané soubory do localsend
 
 Přechozí změny:
 - Nově ve Správě licencí lze vidět CAD i Inventor a lze požádat o jejich uzavření
