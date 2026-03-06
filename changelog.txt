@@ -1,11 +1,13 @@
 Nové změny:
+- Přidán LocalSend, kdy je možné přesunout soubor na lokální zařízení v maximální přenosové rychlosti.
+- Opraveny veškeré chyby aplikace, dle AI není žádná chyba
+
+Přechozí změny:
 - Nově ve Správě licencí lze vidět CAD i Inventor a lze požádat o jejich uzavření
 - Úprava logování aplikací
 - Úprava některých překladů
 - Opravené některé chyby a memory leaky.
 - Přidáno heslo do Správy licencí
-
-Přechozí změny:
 - Nyní lze zobrazit, kdo v UNEXU využívá licenci pro inventor a lze ho požádat o ukončení
 - Oprava některých chyb
 - Úprava vizualizace pro některé vyskakovací hlášky
