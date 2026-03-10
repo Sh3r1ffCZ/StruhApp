@@ -1,26 +1,11 @@
 Nové změny:
-- Přidán LocalSend, kdy je možné přesunout soubor na lokální zařízení v maximální přenosové rychlosti.
-- Opraveny veškeré chyby aplikace, dle AI není žádná chyba
-- Navyýšena rychlost bufferu a přenosu
-- Optimalizace pro RAM pře přenosu souboru
-- Zobrazena rychlost přesunu souboru
-- Opravena chyba s kontrolou aktualizací a možný pád aplikace
-- Přidán save pro přidané soubory do localsend
+- Oprava zamrzání aplikace
 
 Přechozí změny:
+- Přidán LocalSend, kdy je možné přesunout soubor na lokální zařízení v maximální přenosové rychlosti.
+- Opraveny veškeré chyby aplikace
+- Opravena chyba s kontrolou aktualizací a možný pád aplikace
 - Nově ve Správě licencí lze vidět CAD i Inventor a lze požádat o jejich uzavření
-- Úprava logování aplikací
 - Úprava některých překladů
-- Opravené některé chyby a memory leaky.
-- Přidáno heslo do Správy licencí
-- Nyní lze zobrazit, kdo v UNEXU využívá licenci pro inventor a lze ho požádat o ukončení
-- Oprava některých chyb
-- Úprava vizualizace pro některé vyskakovací hlášky
-- Opravena chyba, kdy nebylo možné zavřít inventor
-- Opravené veškeré memory leaky a zamrzávání aplikace
-- Software aktuální je nyní bílý a uprostřed
 - Odemknutí dokumentu funguje i na EXCEL
 - Zrychlení PC má novou funkci na opravu systému
-- Všechny okna mají nový design
-- Přepsáno moje jméno na Changelog
-- Odebrána možnost kontrola aktualizací: Vypnuto
