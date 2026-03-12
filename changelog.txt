@@ -1,5 +1,7 @@
 Nové změny:
 - Oprava zamrzání aplikace
+- Úprava kontroly licencí
+Zrychleno načítání modulů
 
 Přechozí změny:
 - Přidán LocalSend, kdy je možné přesunout soubor na lokální zařízení v maximální přenosové rychlosti.
