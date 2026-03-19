@@ -2,6 +2,8 @@ Nové změny:
 - Přidáno heslo do localsend (volitelné)
 - Přidán zbývající čas pro localsend
 - Upravené statistiky - extrémně vylepšené
+- Opravené chyby s kontrolou aktualizací
+- Opravené chyby se zobrazením changelogu
 
 Přechozí změny:
 - Oprava zamrzání aplikace
