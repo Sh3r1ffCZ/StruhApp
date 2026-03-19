@@ -1,9 +1,12 @@
 Nové změny:
+- Přidáno heslo do localsend (volitelné)
+- Přidán zbývající čas pro localsend
+- Upravené statistiky
+
+Přechozí změny:
 - Oprava zamrzání aplikace
 - Úprava kontroly licencí
 - Zrychleno načítání modulů
-
-Přechozí změny:
 - Přidán LocalSend, kdy je možné přesunout soubor na lokální zařízení v maximální přenosové rychlosti.
 - Opraveny veškeré chyby aplikace
 - Opravena chyba s kontrolou aktualizací a možný pád aplikace
