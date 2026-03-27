@@ -1,2 +1,7 @@
 Nové změny:
 - Oprava pro kontrolu aktualizací (Po nějaké době běhu aplikace nebylo možné zkontrolovat aktualizace)
+- Opraveny chyba při otevření changelogu
+- Opraveny veškeré memory-leaky
+- Opraveny veškeré zombie procesy
+- Opraveny vešekeré freeze procesy aplikace
+- Vylepšena stabilita a rychlost
