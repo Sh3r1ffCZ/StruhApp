@@ -1,18 +1,2 @@
 Nové změny:
-- Přidáno heslo do localsend (volitelné)
-- Přidán zbývající čas pro localsend
-- Upravené statistiky - extrémně vylepšené
-- Opravené chyby s kontrolou aktualizací
-- Opravené chyby se zobrazením changelogu
-
-Přechozí změny:
-- Oprava zamrzání aplikace
-- Úprava kontroly licencí
-- Zrychleno načítání modulů
-- Přidán LocalSend, kdy je možné přesunout soubor na lokální zařízení v maximální přenosové rychlosti.
-- Opraveny veškeré chyby aplikace
-- Opravena chyba s kontrolou aktualizací a možný pád aplikace
-- Nově ve Správě licencí lze vidět CAD i Inventor a lze požádat o jejich uzavření
-- Úprava některých překladů
-- Odemknutí dokumentu funguje i na EXCEL
-- Zrychlení PC má novou funkci na opravu systému
+- Oprava pro kontrolu aktualizací (Po nějaké době běhu aplikace nebylo možné zkontrolovat aktualizace)
