@@ -1,3 +1,4 @@
 Nové změny:
-- Odebrán převod PDF na Excel kvůli neaktuální podpoře
-- Vylepšena vizualizace Zrychlení PC
+- Opraven převod obrázků do PDF + sjednocení
+- Vylepšena stabilita aplikace
+- Zrychlený chod aplikace a vyčištění RAM
