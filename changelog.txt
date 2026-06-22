@@ -1,4 +1,3 @@
 Nové změny:
-- Opraven převod obrázků do PDF + sjednocení
+- Oprava logiky oken, kdy aplikace v průběhu mohla zamrznout při klikání na různá okna
 - Vylepšena stabilita aplikace
-- Zrychlený chod aplikace a vyčištění RAM
