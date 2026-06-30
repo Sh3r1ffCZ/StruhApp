@@ -1,4 +1,5 @@
 Nové změny:
+- Vylepšena bezpečnost aplikace
 - Přidána nová funkce do Převod formátů - PDF na černobílé PDF
 - Oprava logiky oken, kdy aplikace v průběhu mohla zamrznout při klikání na různá okna
 - Vylepšena stabilita aplikace
