@@ -1,6 +1,3 @@
 Nové změny:
-- Přidáno uložení PDF bez hesla
-- Vylepšena bezpečnost aplikace
-- Přidána nová funkce do Převod formátů - PDF na černobílé PDF
-- Oprava logiky oken, kdy aplikace v průběhu mohla zamrznout při klikání na různá okna
+- Oprava přepsání souborů při kompresi obrázků
 - Vylepšena stabilita aplikace
