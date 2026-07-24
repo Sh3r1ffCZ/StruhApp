@@ -1,4 +1,5 @@
 Nové změny:
+- Úprava barev ikon v hlavním UI
 - Proběhl opravdu velký vizuální update
 - Většina oken byla upravena
 - Upravené ikony
