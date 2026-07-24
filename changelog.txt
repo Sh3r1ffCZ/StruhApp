@@ -1,3 +1,11 @@
 Nové změny:
-- Oprava přepsání souborů při kompresi obrázků
-- Vylepšena stabilita aplikace
+- Proběhl opravdu velký vizuální update
+- Většina oken byla upravena
+- Upravené ikony
+- Upravený text u některých popisů
+- Odebrány některé popisy
+- Vylepšena vizualizace ikon dle nastavení barev uživatele
+- Vylepšena stabilita oken a aplikace
+- Při najetí na minimalizovanou ikonu se zobrazí náhled aplikace
+- Byl přidán na některá okna Zbývající čas
+- Byl uspořádán jinak Převod formátů
