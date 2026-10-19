@@ -1,6 +1,5 @@
 Nové změny:
+- Přidána možnost přidat výkres do webklassu
 - Přidán nový převod PDF OCR na text
 - Přidán nový převod PDF OCR na Excel
 - Přidán nový převod PDF OCR na Word
-- Odebrání neaktivních funkcí
-- Lepší optimalizace
