@@ -1,4 +1,8 @@
 Nové změny:
+- Upraven vzhled
+- Přidáno rozložení 1 a 2
+- Úprava RAM a CPU
+- Upraven vzhled tlačítek
 - Přidána možnost přidat výkres do webklassu
 - Přidána podpora pro artikly SU a TO
 - Přidána možnost při převodu do souboru TIFF - maximální vyobrazení pixelů
