@@ -1,4 +1,5 @@
 Nové změny:
+- Přidány všechny podporované artikly a možnost přidat více listů
 - Upraven vzhled
 - Přidáno rozložení 1 a 2
 - Úprava RAM a CPU
