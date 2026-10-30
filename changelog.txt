@@ -1,9 +1,7 @@
 Nové změny:
-- Přidány všechny podporované artikly a možnost přidat více listů
-- Upraven vzhled
-- Přidáno rozložení 1 a 2
-- Úprava RAM a CPU
-- Upraven vzhled tlačítek
-- Přidána možnost přidat výkres do webklassu
-- Přidána podpora pro artikly SU a TO
-- Přidána možnost při převodu do souboru TIFF - maximální vyobrazení pixelů
+- Přidány nové vzhledy tlačítek
+- Vylepšena statistika
+- Opravena chyba při Zrychlení PC
+- Upraven vzhled Převod Formátu
+- Vylepšena rychlost LocalSend
+- Přidána nová možnost Drop-zone pro LocalSend (Složka synchronizovaná pro 2 a více zařízení - chráněná heslem)
