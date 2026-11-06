@@ -1,4 +1,5 @@
 Nové změny:
+- Přidána podpora pro .f4v
 - Přidány nové vzhledy tlačítek
 - Vylepšena statistika
 - Opravena chyba při Zrychlení PC
