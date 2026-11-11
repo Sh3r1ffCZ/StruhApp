@@ -1,4 +1,5 @@
 Nové změny:
+- Oprava a vylepšení překladu PDF
 - Přidána podpora pro .f4v
 - Přidány nové vzhledy tlačítek
 - Vylepšena statistika
